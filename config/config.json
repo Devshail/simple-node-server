@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "frredo_database_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "ACCESS_TOKEN_SECRET":"swsh23hjdfghughuhguhuyghdddnns",
+    "ACCESS_TOKEN_LIFE":180,
+    "REFRESH_TOKEN_SECRET":"dhw782wujnd99ahmmakhanjkajikhiwn2ndshauhsdufhdsohfughdsuih",
+    "REFRESH_TOKEN_LIFE":86400
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "ACCESS_TOKEN_SECRET":"swsh23hjdfghughuhguhuyghdddnns",
+    "ACCESS_TOKEN_LIFE":180,
+    "REFRESH_TOKEN_SECRET":"dhw782wujnd99ahmmakhanjkajikhiwn2ndshauhsdufhdsohfughdsuih",
+    "REFRESH_TOKEN_LIFE":86400
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "ACCESS_TOKEN_SECRET":"swsh23hjdfghughuhguhuyghdddnns",
+    "ACCESS_TOKEN_LIFE":180,
+    "REFRESH_TOKEN_SECRET":"dhw782wujnd99ahmmakhanjkajikhiwn2ndshauhsdufhdsohfughdsuih",
+    "REFRESH_TOKEN_LIFE":86400
+  }
+}
